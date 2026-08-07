@@ -216,3 +216,41 @@ VIKRAM AI DEVICE ఒక personal AI assistant project.
    VIKRAM AI DEVICE
         READY
 ========================
+Vikram-AI/
+├── README.md
+├── V1/vikram_ai_v1.cpp
+├── V2/vikram_ai_v2.cpp
+├── V2.1/vikram_ai_v21.cpp
+├── V2.2/vikram_ai_v22.cpp
+├── V3/vikram_ai_v30.cpp
+├── Android-App/
+│   ├── MainActivity.kt
+│   ├── AndroidManifest.xml
+│   └── activity_main.xml
+└── LICENSE
+# 🤖 VIKRAM AI DEVICE
+
+**Creator:** Pullam P. Sai Kumar H  
+**Current Version:** VIKRAM AI V2.2 ⭐  
+
+---
+
+## 🎙️ LIVE VOICE SYSTEM
+
+```text
+       USER
+         |
+         ↓
+  🎤 Microphone
+         |
+         ↓
+ SPEECH SYSTEM (Speech To Text)
+         |
+         ↓
+     AI CORE
+         |
+         ↓
+ TEXT TO SPEECH (Text → Voice)
+         |
+         ↓
+    🔊 Speaker
