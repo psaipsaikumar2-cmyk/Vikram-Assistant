@@ -172,21 +172,3 @@ fun VikramApp() {
         <item name="android:fontFamily">sans</item>
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:statusBarColor">#FFFFFF</item>
-
-    </style>
-
-</resources>
-VikramApp/
-├── build.gradle
-├── settings.gradle
-└── app/
-    ├── build.gradle
-    └── src/
-        └── main/
-            ├── AndroidManifest.xml
-            ├── java/
-            │   └── com/vikram/ai/
-            │       └── MainActivity.kt
-            └── res/
-                └── values/
-                    └── styles.xml
